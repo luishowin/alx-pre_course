@@ -1,1 +1,1 @@
-Edited readme for last task
+Edited readme for corrections
